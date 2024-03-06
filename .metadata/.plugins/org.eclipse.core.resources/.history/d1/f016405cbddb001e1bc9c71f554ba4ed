@@ -1,0 +1,10 @@
+package lpa_2;
+
+public class Hello_moto {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\fell\Desktop\work_lpa\.metadata\.plugins\org.eclipse.jdt.core
+1535177651.index
+1865797976.index
+4107826554.index
